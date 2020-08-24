@@ -1,0 +1,9 @@
+{
+  "autoload": {
+
+    "psr-4": {"Felis\\": "lib/Felis"}
+  },
+  "require": {
+    "phpunit/phpunit": "^6"
+  }
+}
